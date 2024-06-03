@@ -1,4 +1,4 @@
-# instaproject15
+# smallproject15
 
 
 text slide animation simple css
